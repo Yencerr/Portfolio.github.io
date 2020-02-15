@@ -1,8 +1,20 @@
 
-body {
-    font-family: 'Oswald', sans-serif;
+/* background image */
+
+.html {
+    height: 100vh;
 }
 
+body { 
+    font-family: 'Oswald', sans-serif;
+    background: url("../Images/Snow-Image.jpg.JPG") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+/* end background image */
 
 /* nav design */
 
@@ -14,22 +26,18 @@ body {
     font-size: 20px;
 }
 
-/* background image */
-
-.html {
-    height: 100vh;
+.container {
+  padding-top: 35px;
 }
 
-body { 
-    background: url("../Images/Snow-Image.jpg.JPG") no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
+.display-4
+.h1 {
+  align-content: center;
+}
 
-/* end background image */
-
+.jumbotron {
+ align-content: center;
+}
 
 .footer {
     padding: 20px;
