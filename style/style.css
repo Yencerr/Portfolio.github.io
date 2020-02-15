@@ -39,10 +39,6 @@ body {
  align-content: center;
 }
 
-.src {
-float: left;
-}
-
 .footer {
     padding: 20px;
     position: fixed;
