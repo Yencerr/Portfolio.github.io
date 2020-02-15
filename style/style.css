@@ -31,12 +31,16 @@ body {
 }
 
 .display-4
-.h1 {
+.lead {
   align-content: center;
 }
 
 .jumbotron {
  align-content: center;
+}
+
+.src {
+float: left;
 }
 
 .footer {
