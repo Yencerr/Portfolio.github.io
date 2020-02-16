@@ -30,14 +30,12 @@ body {
   padding-top: 35px;
 }
 
-.display-4
-.lead {
-  align-content: center;
-}
-
-.jumbotron {
- align-content: center;
-}
+.jumbotron{
+  margin-top: 20px; 
+  left:10px;
+  font-size:15px;
+  color: black;
+ }
 
 .footer {
     padding: 20px;
